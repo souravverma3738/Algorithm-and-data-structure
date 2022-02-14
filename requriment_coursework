@@ -1,0 +1,20 @@
+    
+
+    Implement the game its name is sudoku 
+
+
+    Task requirments
+
+    a. game will have three different option
+       1. EASY
+       2. MEDIUM
+       3. HARD
+
+    b. Save the every play of game like record.
+    c. user could easily replay the game from that record which they want.
+    d. there are only three mistake (optional).
+    e. suport the undo option like player ca use undo to go back their move.
+    f. it will also support the redo option.
+    g. time will also matter in the game(optional).
+    h. if u want to take a high grade 80+ then your game have different size 9*9 3*3 etc.
+    i. player also know about their number means how many number left to finish the borad.
